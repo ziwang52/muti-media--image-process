@@ -1,0 +1,13 @@
+for image segmentation (edge detection / k-mean) and image noise detection include add salt pepper noise
+open source.cpp file
+which is c++ program 
+modify input image or cluster numbers if interested, the name of output of image could be modified too.
+
+for image sonification open 
+imagesnonification.py 
+
+can use JEM JAVA editor to run the code which is include in folder
+
+replace with different image to listen different audio sound
+
+it runs slow, so wait little bit after run the code.
